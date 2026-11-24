@@ -3,6 +3,7 @@
 ## Team members:
 - Quan Nguyen
 - My teammate
+- Third teammate
 
 ## Description
 This is an application to help users determine which moves to use when they are in a pokemon battle.
