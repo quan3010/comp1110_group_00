@@ -5,6 +5,9 @@
 - My teammate
 - Third teammate (new)
 
+## Google AI studio app
+[Click here](https://ai.studio/apps/0ce0af70-322b-474a-9be5-9e1872d759d9)
+
 ## Description
 This is an application to help users determine which moves to use when they are in a pokemon battle.
 
